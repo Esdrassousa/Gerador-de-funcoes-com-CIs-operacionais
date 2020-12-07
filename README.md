@@ -15,6 +15,6 @@ configuração de frequência e amplitude. A configuração de frequências, dev
   O circuito é mostrado na Figura a seguir
   
 </p>
-  <img src="https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/main/Circuito-pot10K.png" height = "250" width = "400">
+  <img src="https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/main/Circuito-pot10K.png" height = "100%" width = "100%">
   </div>
 
