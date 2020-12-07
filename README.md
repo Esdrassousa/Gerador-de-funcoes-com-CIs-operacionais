@@ -22,8 +22,10 @@ configuração de frequência e amplitude. A configuração de frequências, dev
   	A imagem a seguir demonstra a visualização 2D da PCB do circuito:
   </p>
   
-  <img src="https://github.com/JoRenatoNe/Gerador-de-funcoes-com-CIs-operacionais/blob/main/Imagens/2D.PNG" height = "100%" width = "100%">
+  <img src="https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/main/Imagens/2D.png" height = "100%" width = "100%">
   </div>
+  
+  
   
   
 
