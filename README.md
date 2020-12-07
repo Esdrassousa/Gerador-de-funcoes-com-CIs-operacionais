@@ -11,3 +11,7 @@ configuração de frequência e amplitude. A configuração de frequências, dev
 100 Hz até 10 kHz; e a configuração de amplitudes, de 100mVpp até 2 Vpp.
 </p>
 
+<p align="justify">
+  O circuito é mostrado na Figura a seguir
+![alt text](https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/master/Imagens/Primeira_Versao.JPG)
+</p>
