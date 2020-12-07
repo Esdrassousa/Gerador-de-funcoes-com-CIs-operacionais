@@ -10,9 +10,11 @@
 configuração de frequência e amplitude. A configuração de frequências, deve atender a faixa de
 100 Hz até 10 kHz; e a configuração de amplitudes, de 100mVpp até 2 Vpp.
 </p>
-
+<div>
 <p align="justify">
   O circuito é mostrado na Figura a seguir
-  ![alt text](https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/master/Primeira_Versao.JPG?raw=true)
+  
 </p>
+  <img src="https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/master/Primeira_Versao.JPG" height = "150" width = "100">
+  </div>
 
