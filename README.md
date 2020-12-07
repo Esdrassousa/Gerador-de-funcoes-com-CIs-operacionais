@@ -12,7 +12,7 @@ configuração de frequência e amplitude. A configuração de frequências, dev
 </p>
 <div>
 <p align="justify">
-  O circuito é mostrado na Figura a seguir
+  O circuito é mostrado na Figura a seguir:
   
 </p>
   <img src="https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/main/Imagens/Circuito_oscilador.JPG" height = "100%" width = "100%">
