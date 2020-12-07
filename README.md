@@ -17,4 +17,12 @@ configuração de frequência e amplitude. A configuração de frequências, dev
 </p>
   <img src="https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/main/Imagens/Circuito_oscilador.JPG" height = "100%" width = "100%">
   </div>
+  
+  <p align="justify">
+  A imagem a seguir demonstra a visualização 2D da PCB do circuito:
+  
+  <img src="https://github.com/JoRenatoNe/Gerador-de-funcoes-com-CIs-operacionais/blob/main/Imagens/2D.pdsprj" height = "100%" width = "100%">
+  </div>
+  
+  
 
