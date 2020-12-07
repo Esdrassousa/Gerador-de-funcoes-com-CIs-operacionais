@@ -14,4 +14,4 @@ configuração de frequência e amplitude. A configuração de frequências, dev
 <p align="justify">
   O circuito é mostrado na Figura a seguir
 </p>
-![alt text](https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/master/Primeira_Versao.JPG?raw=true)
+O circuito é mostrado na Figura a seguir ![alt text](https://github.com/Esdrassousa/Gerador-de-funcoes-com-CIs-operacionais/blob/master/Imagens/Primeira_Versao.JPG?raw=true)
