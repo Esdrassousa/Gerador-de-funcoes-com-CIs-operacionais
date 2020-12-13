@@ -1,8 +1,15 @@
+
+
 <h1 align="center"> Gerador de funcões com CIs operacionais </h1>
+
+<p> Link da apresentação: </p>
+<a href="https://drive.google.com/file/d/1qwH3-pqII2VtMxBb5xx3rQTzztqH1zVp/view?usp=sharing"> https://drive.google.com/file/d/1qwH3-pqII2VtMxBb5xx3rQTzztqH1zVp/view?usp=sharing </a>
+
 #Resumo:
 <p align="justify">
   Trata-se do projeto de um gerador de funções para auxílio em testes de circuitos eletrônicos 
 </p>
+
 
 #Definição e Especificações:
 <p align="justify">
